@@ -1,18 +1,5 @@
-# Created by https://www.gitignore.io/api/go
+# Ignore all
+*
 
-### Go ###
-# Binaries for programs and plugins
-!**/*.go
-*.exe
-*.exe~
-*.dll
-*.so
-*.dylib
-
-# Test binary, build with `go test -c`
-*.test
-
-# Output of the go coverage tool, specifically when used with LiteIDE
-*.out
-
-# End of https://www.gitignore.io/api/go
+# Unignore all files with extensions recursively
+!**/*.*
